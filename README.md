@@ -1,6 +1,6 @@
 ### Результат
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab3/img1.png)
+![alt text](https://github.com/ArtemB98/GUI_LAB3/blob/master/image_1.png)
 <br>Стоимость нефти увеличивается => стоимость рубля увеличивается, стоимость доллара уменьшается.
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab3/img2.png)
+![alt text](https://github.com/ArtemB98/GUI_LAB3/blob/master/image_2.png)
 <br>Стоимость нефти уменьшается => стоимость рубля уменьшается, стоимость доллара увеличивается.
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab3/img3.png)
+![alt text](https://github.com/ArtemB98/GUI_LAB3/blob/master/image_3.png)
